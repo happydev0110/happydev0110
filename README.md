@@ -1,9 +1,9 @@
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
-  <a href="https://github.com/happydev0110"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;FullStack%20Developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/happydev0110"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;FullStack%20Developer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
-  I am a capable Full-Stack web developer with over 7 years of software development experience using JavaScript and Python. 
+  I am a capable Full-Stack web developer with over 10 years of software development experience using JavaScript and Python. 
 
 Since I started developing with basic C++/Java as mentioned in Algorithms and Data Structures, I am familiar with the programming logic and can work at least twice as fast as the mid-level developer.
 
