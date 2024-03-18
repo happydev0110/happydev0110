@@ -5,7 +5,7 @@
   
   I am a capable Full-Stack web developer with over 10 years of software development experience using JavaScript and Python. 
 
-Since I started developing with basic C#/Java as mentioned in Algorithms and Data Structures, I am familiar with the programming logic and can work at least twice as fast as the mid-level developer.
+Since I started developing with basic PHP,C#/Java as mentioned in Algorithms and Data Structures, I am familiar with the programming logic and can work at least twice as fast as the mid-level developer.
 
 I try to keep the project structure and coding style as good as possible, and quality improvement is the final goal.
 
