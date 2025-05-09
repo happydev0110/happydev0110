@@ -9,7 +9,7 @@ Since I started developing with basic Node, Python, PHP,C#/Java, Blockchain as m
 
 I try to keep the project structure and coding style as good as possible, and quality improvement is the final goal.
 
-The rich development experience of Node.js, PHP, Laravel and Django can ensure maintainability and improvement with a well-designed structure and logic in back-end development.
+The extensive development experience of Node.js, PHP, Laravel and Django can ensure maintainability and improvement with a well-designed structure and logic in back-end development.
 
 Because of a complete understanding of various libraries and Front-End frameworks based on JavaScript and TypeScript(React.js, Vue.js, AngularJS, Angular) there is no difficulty in development.
 
